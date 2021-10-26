@@ -6,7 +6,7 @@ import os
 
 def main():
         os.system("claer")
-        os.system("figlet muslimcyber1234")
+        os.system("figlet web_phising")
         banner="""
 
         (+)AUTHOR :muslimcyber1234
